@@ -1,4 +1,5 @@
 
+# 1-My Simple Timer
 
 "Hi everyone,
 
@@ -11,3 +12,33 @@ Technologies Used:
 Vanilla JavaScript
 CSS
 HTML"
+
+
+
+## Features
+
+- Simple Timer v0.0.1
+
+
+## Used By
+
+This project is used by the following technologies :
+
+- HTML
+- CSS
+- Javascript
+
+
+## 🔗 Follow me on social medias
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-bonyadi-b03350289/)
+
+
+
+## Demo
+
+
+![Logo](https://github.com/hbondev/Miniprojects/blob/develop/SimpleTimer/demo.png?raw=true)
+
+
+
